@@ -1,0 +1,15 @@
+ACTUALIZACIÓN PARA GITHUB PAGES - FIRELIGHT PROTECTION
+
+Subir al repositorio certificados-firelight:
+1. La carpeta completa "pdf" (contiene IC-002201.pdf hasta IC-002216.pdf).
+2. Reemplazar el archivo "certificados.js" existente por el archivo incluido aquí.
+
+IMPORTANTE:
+- Conservar exactamente el nombre de la carpeta: pdf
+- No cambiar los nombres de los archivos PDF.
+- Esperar 1 a 3 minutos después de guardar los cambios en GitHub Pages.
+
+Prueba:
+https://firelightprotectionperu.github.io/certificados-firelight/?codigo=IC-002201
+
+Al abrir el registro aparecerá el botón "Descargar certificado PDF".

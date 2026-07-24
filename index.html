@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Verificación pública de certificados emitidos por FIRELIGHT PROTECTION E.I.R.L.">
+  <title>Verificación de certificados | FIRELIGHT PROTECTION</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="mark">F</div>
+      <div>
+        <strong>FIRELIGHT PROTECTION</strong>
+        <span>Verificación de certificados</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <p class="eyebrow">CONSULTA OFICIAL</p>
+      <h1>Verifica la autenticidad de un certificado</h1>
+      <p>Ingresa el código completo o el DNI del participante.</p>
+      <form id="searchForm" class="search">
+        <input id="query" autocomplete="off" placeholder="Ejemplo: IC-002201 o 43057385" aria-label="Código o DNI">
+        <button type="submit">Verificar</button>
+      </form>
+      <p id="message" class="message" role="status"></p>
+    </section>
+
+    <section id="results" class="results" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>© 2026 FIRELIGHT PROTECTION E.I.R.L. · Consulta informativa de certificados.</p>
+  </footer>
+
+  <script src="certificados.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
