@@ -479,5 +479,19 @@ window.CERTIFICADOS = [
   "empresa": "VAP INDUSTRIAL SOLUTIONS S.A.C.",
   "instructor": "Ing. Misael Beteta Montoya",
   "pdf": "pdf/IC-001162.pdf"
+},
+{
+  "codigo": "IC-001163",
+  "nombre": "ANTONIO ALEJANDRO RIVERO MUJICA",
+  "dni": "007425757",
+  "curso": "Seguridad para Trabajos en Altura",
+  "horas": "08 horas académicas",
+  "emision": "Agosto de 2026",
+  "vencimiento": "Agosto de 2027",
+  "estado": "VIGENTE",
+  "empresa": "VAP INDUSTRIAL SOLUTIONS S.A.C.",
+  "instructor": "Ing. Misael Beteta Montoya",
+  "pdf": "pdf/IC-001163.pdf"
 }
 ];
+
