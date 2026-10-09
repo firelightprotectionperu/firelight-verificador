@@ -492,6 +492,58 @@ window.CERTIFICADOS = [
   "empresa": "VAP INDUSTRIAL SOLUTIONS S.A.C.",
   "instructor": "Ing. Misael Beteta Montoya",
   "pdf": "pdf/IC-001163.pdf"
+},
+{
+  "codigo": "IC-001164",
+  "nombre": "STEFANIA, CÁRDENAS MAURICIO",
+  "dni": "47151337",
+  "curso": "Seguridad para Trabajos en Excavaciones y Zanjas",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "VAP INDUSTRIAL SOLUTIONS S.A.C.",
+  "instructor": "Ing. Misael Beteta Montoya",
+  "pdf": "pdf/IC-001164.pdf"
+},
+{
+  "codigo": "IC-001165",
+  "nombre": "STEFANIA, CÁRDENAS MAURICIO",
+  "dni": "47151337",
+  "curso": "Seguridad para Trabajos en Espacios Confinados",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "VAP INDUSTRIAL SOLUTIONS S.A.C.",
+  "instructor": "Ing. Misael Beteta Montoya",
+  "pdf": "pdf/IC-001165.pdf"
+},
+{
+  "codigo": "IC-001166",
+  "nombre": "STEFANIA, CÁRDENAS MAURICIO",
+  "dni": "47151337",
+  "curso": "Seguridad para Trabajos en Caliente",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "VAP INDUSTRIAL SOLUTIONS S.A.C.",
+  "instructor": "Ing. Misael Beteta Montoya",
+  "pdf": "pdf/IC-001166.pdf"
+},
+{
+  "codigo": "IC-001167",
+  "nombre": "STEFANIA, CÁRDENAS MAURICIO",
+  "dni": "47151337",
+  "curso": "Seguridad en Izaje de Cargas",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "VAP INDUSTRIAL SOLUTIONS S.A.C.",
+  "instructor": "Ing. Misael Beteta Montoya",
+  "pdf": "pdf/IC-001167.pdf"
 }
 ];
 
